@@ -1,0 +1,5 @@
+$ javac Player1.java
+$ javac Player2.java
+$ javac ChatBetweenPlayersTest.java
+
+$ java ChatBetweenPlayersTest
